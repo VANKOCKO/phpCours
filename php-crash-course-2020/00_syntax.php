@@ -18,5 +18,5 @@
       echo '<button> Click me </button>';
       echo 'Hello from another tag';
    ?> 
-</body>
+</body> 
 </html>
