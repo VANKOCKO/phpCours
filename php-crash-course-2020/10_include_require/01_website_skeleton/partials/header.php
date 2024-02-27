@@ -8,6 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>My Awesome page></h1>
-</body>
-</html>
+<header>
+    <a href="index.php">Home</a>
+    <a href="about.php">About</a>
+</header>
